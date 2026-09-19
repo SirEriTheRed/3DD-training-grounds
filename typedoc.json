@@ -1,0 +1,9 @@
+{
+  "entryPoints": ["src/index.ts"],
+  "out": "docs",
+  "plugin": ["typedoc-plugin-markdown"],
+  "readme": "README.md",
+  "excludePrivate": true,
+  "excludeInternal": true,
+  "gitRevision": "main"
+}
